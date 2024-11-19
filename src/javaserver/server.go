@@ -4,7 +4,7 @@ import "io"
 import "math"
 import "time"
 import "bufio"
-import "github.com/davidcallanan/gomcp/javaio"
+import "github.com/davidcallanan/go-mcp/javaio"
 import "github.com/google/uuid"
 
 type Connection struct {

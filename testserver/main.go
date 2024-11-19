@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 import "net"
-import "github.com/davidcallanan/gomcp/javaserver"
+import "github.com/davidcallanan/go-mcp/javaserver"
 import "github.com/google/uuid"
 
 type Player struct {

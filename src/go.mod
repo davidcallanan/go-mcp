@@ -1,3 +1,3 @@
-module github.com/davidcallanan/gomcp
+module github.com/davidcallanan/go-mcp
 
 go 1.14
