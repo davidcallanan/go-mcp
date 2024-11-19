@@ -14,6 +14,7 @@ Additionally, for only version 1.14, I have implemented player joining, player m
  - Clone this repository.
  - `cd testserver`.
  - `go run main.go`.
+ - Launch Minecraft 1.14 and connect to `localhost`.
  - See `DEVELOPMENT.md` for more information.
 
 ## Development

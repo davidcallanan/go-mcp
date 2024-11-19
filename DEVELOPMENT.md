@@ -4,12 +4,15 @@
 
  - Install `git`.
  - Install Go version `^1.23.2`.
- - Clone this repository using git.
+ - Clone this repository using `git clone https://github.com/davidcallanan/go-mcp`.
 
-## Run Server
+## Run Test Server
 
  - `cd testserver`
  - `go run main.go`
+ - Launch Minecraft 1.14.
+ - Click on "Multiplayer -> Add Server", and enter `localhost` as the server address.
+ - Connect to the server.
 
 ## Project Structure
 
