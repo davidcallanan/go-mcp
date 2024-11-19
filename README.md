@@ -1,6 +1,6 @@
 # Go Minecraft Protocol
 
-This project aims to reverse engineer the Minecraft server protocol, and create a bare-minimum implementation of the protocol in Go from scratch, using [https://wiki.vg/Main_Page](wiki.vg) as a crucial reference in the process.
+This project aims to reverse engineer the Minecraft server protocol, and create a bare-minimum implementation of the protocol in Go from scratch, using [wiki.vg](https://wiki.vg/Main_Page) as a crucial reference in the process.
 
 This is just a hobby project, and very little has been implemented thus far.
 
